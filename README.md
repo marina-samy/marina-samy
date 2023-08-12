@@ -1,6 +1,8 @@
+
+<img width="900" height="300" align="center" alt="web development" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"/> 
 <h1 align="center">Hi 👋, I'm Marina Samy</h1>
 <h3 align="center">A passionate MEARN Full-Stack graduate from ITI</h3>
-<img width="400" align="right" " alt="web development" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/> 
+<img width="400" align="right" " alt="web developer" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marina-samy&label=Profile%20views&color=0e75b6&style=flat" alt="marina-samy" /> </p>
 
 - 🔭 I’m currently working as Freelance **Tourism Project**
